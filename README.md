@@ -13,4 +13,4 @@ copy 'https://github.com/fastcampus-flutter/fast_app_base'
 
 Object | File name | Description 
 --|---|---
-Widget | w_{name}.dart  | 위젯 | 
+Widget | w_{name}.dart  | 위젯 |
